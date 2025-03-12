@@ -1,12 +1,20 @@
-## Hi there 👋
+# Return Troop (Tropa do Regresso)
 
-<!--
+Bem-vindo à **Return Troop**! Somos uma comunidade Web3. Esta organização no github serve para entregarmos soluções inovadoras através de scripts, automações e bots.
 
-**Here are some ideas to get you started:**
+Nossa missão é facilitar processos, potencializar projetos e fortalecer o ecossistema Web3.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## O que fazemos
+- Desenvolvimento de **scripts** eficientes e otimizados
+- Criação de **automações** para simplificar tarefas repetitivas
+- Implementação de **bots** para farmar depin, airdrops, testnet
+
+## Junte-se a nós!
+Entre para nossa comunidade e acompanhe nossas novidades:
+- 💬 Discord: [Server](https://discord.gg/auUsCVQDvz)
+- 🐦 Twitter: [Return Troop](https://x.com/returntroop)
+
+Fique por dentro de tudo que estamos desenvolvendo e contribua para nossos projetos! 🚀
+
+## Licença
+Este projeto é licenciado sob a licença MIT.
